@@ -1,0 +1,17 @@
+body {
+  /* Fondo de la página */
+  background-color: #f0f0f0; /* Un gris claro */
+
+  /* Color del texto por defecto */
+  color: #333; /* Gris oscuro para mejor lectura */
+
+  /* Fuente principal (sin ser un tipo específico, puedes usar familias comunes) */
+  font-family: sans-serif; /* Una fuente limpia y legible */
+
+  /* Elimina los márgenes automáticos del navegador */
+  margin: 0;
+  padding: 20px; /* Añade un poco de espacio alrededor del contenido */
+
+  /* Ajuste para que el contenido no se pegue a los bordes */
+  box-sizing: border-box;
+}
